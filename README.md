@@ -1,18 +1,20 @@
 
-# Trabajo practico N°2 para CAC 4ta Edición
+# Trabajo practico N°3 para CAC 4ta Edición
 
-Desarrollo de pagina web con los contenidos vistos
+Creación e inserción de registros en una base de datos
 
 - Profesor: Nefle Miguel.
 - Institución: Ministerio de educación - Buenos Aires, Argentina.
 - Ciclo Lectivo: 2023
 
 
-## Acerca de la página web
+## Acerca del tp
 
-El objetivo de la pagina web era crear un formulario que pudiese calcular y mostrar por pantalla el valor de los tickets a comprar segun la cantidad solicitada y los descuentos aplicados a las categorias planteadas.
-
-Se agregaron validadores y mensajes de errores para poder guiar al usuario en la solicitud.
+• Se definieron los tipos de datos correspondientes a cada columna.
+• Se definió la clave primaria correspondiente a la tabla "oradores".
+• Se definieron las restricciones.
+• Se insertaron 10 registros
+• Se sube un backup de la base de datos para porder ser revisado.
 
 ## Authors
 
