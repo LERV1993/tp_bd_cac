@@ -11,9 +11,13 @@ Creación e inserción de registros en una base de datos
 ## Acerca del tp
 
 • Se definieron los tipos de datos correspondientes a cada columna.
+
 • Se definió la clave primaria correspondiente a la tabla "oradores".
+
 • Se definieron las restricciones.
-• Se insertaron 10 registros
+
+• Se insertaron 10 registros.
+
 • Se sube un backup de la base de datos para porder ser revisado.
 
 ## Authors
